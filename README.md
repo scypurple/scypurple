@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📝 I regularly write articles on [scypurple.github.io](scypurple.github.io)
+- 📝 I regularly write articles on [scypurple.github.io](https://scypurple.github.io)
 
 - 📫 How to reach me **scypurple@gmail.com**
 
-- ⚡ Here is my site **www.scypurple.top**
+- ⚡ Here is my site **[scypurple.top](https://www.scypurple.top)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
